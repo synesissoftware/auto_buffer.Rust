@@ -1,0 +1,39 @@
+
+# ##########################################################
+# Package
+
+[package]
+
+authors = [
+	"Matt Wilson <matthew@synesis.com.au>",
+]
+description = "auto_buffer, for Rust"
+edition = "2021"
+homepage = "https://github.com/synesissoftware/auto_buffer.Rust"
+license = "BSD-3-Clause"
+name = "auto_buffer"
+readme = "README.md"
+version = "0.0.0"
+
+
+# ##########################################################
+# Targets
+
+
+# ##########################################################
+# Features
+
+[features]
+
+
+# ##########################################################
+# Dependencies
+
+[dependencies]
+
+
+[dev-dependencies]
+
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
